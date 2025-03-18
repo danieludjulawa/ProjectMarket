@@ -2,3 +2,5 @@ Minimarket disini maksudnya membuat aplikasi minimarket berupa website yang akan
 adapun nama minimarket tersebut adalah DEAL SHOP
 * Hari pertama buat rancangan layout nya
 * hari ke dua rancang database
+* selanjutnya dilakukan penambahan page untuk mempercantika tampilan
+* perlu tampilan warna yang cocok
